@@ -1,0 +1,101 @@
+Abbreviation,Team,Conference,Division,Wins,Losses,latitude,longitude,QB,Stadium,Coach
+ARI,Arizona Cardinals,NFC,West,4,13,33.5277,-112.262608,Kyler Murray,State Farm Stadium,Jonathan Gannon
+ARI,Arizona Cardinals,NFC,West,4,13,33.5277,-112.262608,Joshua Dobbs (Cardinals QB),State Farm Stadium,Jonathan Gannon
+ARI,Arizona Cardinals,NFC,West,4,13,33.5277,-112.262608,Clayton Tune,State Farm Stadium,Jonathan Gannon
+
+ATL,Atlanta Falcons,NFC,South,7,10,33.757614,-84.400972,Desmond Ridder,Mercedes-Benz Stadium,Raheem Morris
+ATL,Atlanta Falcons,NFC,South,7,10,33.757614,-84.400972,Taylor Heinicke,Mercedes-Benz Stadium,Raheem Morris
+
+BAL,Baltimore Ravens,AFC,North,13,4,39.277969,-76.622767,Lamar Jackson,M&T Bank Stadium,John Harbaugh
+BAL,Baltimore Ravens,AFC,North,13,4,39.277969,-76.622767,Tyler Huntley,M&T Bank Stadium,John Harbaugh
+
+BUF,Buffalo Bills,AFC,East,11,6,42.773739,-78.786978,Josh Allen,Highmark Stadium,Sean McDermott
+
+CAR,Carolina Panthers,NFC,South,2,15,35.225808,-80.852861,Andy Dalton,Bank of America Stadium,Dave Canales
+CAR,Carolina Panthers,NFC,South,2,15,35.225808,-80.852861,Bryce Young,Bank of America Stadium,Dave Canales
+
+CHI,Chicago Bears,NFC,North,7,10,41.862306,-87.616672,Justin Fields,Soldier Field,Matt Eberflus
+CHI,Chicago Bears,NFC,North,7,10,41.862306,-87.616672,Tyson Bagent,Soldier Field,Matt Eberflus
+
+CIN,Cincinnati Bengals,AFC,North,9,8,39.095442,-84.516039,Joe Burrow,Paycor Stadium,Zac Taylor	
+CIN,Cincinnati Bengals,AFC,North,9,8,39.095442,-84.516039,Jake Browning,Paycor Stadium,Zac Taylor	
+
+CLE,Cleveland Browns,AFC,North,11,6,41.506022,-81.699564,Deshaun Watson,Cleveland Browns Stadium,Kevin Stefanski
+CLE,Cleveland Browns,AFC,North,11,6,41.506022,-81.699564,Dorian Thompson-Robinson,Cleveland Browns Stadium,Kevin Stefanski
+CLE,Cleveland Browns,AFC,North,11,6,41.506022,-81.699564,PJ Walker,Cleveland Browns Stadium,Kevin Stefanski
+CLE,Cleveland Browns,AFC,North,11,6,41.506022,-81.699564,Joe Flacco,Cleveland Browns Stadium,Kevin Stefanski
+CLE,Cleveland Browns,AFC,North,11,6,41.506022,-81.699564,Jeff Driskel,Cleveland Browns Stadium,Kevin Stefanski
+
+DAL,Dallas Cowboys,NFC,East,12,5,32.747778,-97.092778,Dak Prescott,AT&T Stadium,Mike McCarthy
+
+DEN,Denver Broncos,AFC,West,8,9,39.743936,-105.020097,Russell Wilson,Empower Field at Mile High,Sean Payton
+DEN,Denver Broncos,AFC,West,8,9,39.743936,-105.020097,Jarrett Stidham,Empower Field at Mile High,Sean Payton
+
+DET,Detroit Lions,NFC,North,12,5,42.340156,-83.045808,Jared Goff,Ford Field,Dan Campbell
+
+GB,Green Bay Packers,NFC,North,9,8,44.501306,-88.062167,Jordan Love,Lambeau Field,Matt LaFleur	
+
+HOU,Houston Texans,AFC,South,10,7,29.684781,-95.410956,C.J. Stroud,NRG Stadium,DeMeco Ryans
+HOU,Houston Texans,AFC,South,10,7,29.684781,-95.410956,Case Keenum,NRG Stadium,DeMeco Ryans
+
+IND,Indianapolis Colts,AFC,South,9,8,39.760056,-86.163806,Gardner Minshew,Lucas Oil Stadium,Shane Steichen
+IND,Indianapolis Colts,AFC,South,9,8,39.760056,-86.163806,Anthony Richardson,Lucas Oil Stadium,Shane Steichen
+
+JAX,Jacksonville Jaguars,AFC,South,9,8,30.323925,-81.637356,Trevor Lawrence,EverBank Stadium,Doug Pederson
+JAX,Jacksonville Jaguars,AFC,South,9,8,30.323925,-81.637356,CJ Beathard,EverBank Stadium,Doug Pederson
+
+KC,Kansas City Chiefs,AFC,West,11,6,39.048914,-94.484039,Patrick Mahomes,Arrowhead Stadium,Andy Reid
+KC,Kansas City Chiefs,AFC,West,11,6,39.048914,-94.484039,Blaine Gabbert,Arrowhead Stadium,Andy Reid
+
+LV,Las Vegas Raiders,AFC,West,8,9,37.751411,-122.200889,Aidan O'Connell,Allegiant Stadium,Antonio Pierce
+LV,Las Vegas Raiders,AFC,West,8,9,37.751411,-122.200889,Jimmy Garoppolo,Allegiant Stadium,Antonio Pierce
+
+LAC,Los Angeles Chargers,AFC,West,5,12,32.783117,-117.119525,Justin Herbert,SoFi Stadium,Brandon Staley 
+LAC,Los Angeles Chargers,AFC,West,5,12,32.783117,-117.119525,Easton Stick,SoFi Stadium,Brandon Staley 
+
+LAR,Los Angeles Rams,NFC,West,10,7,38.632975,-90.188547,Matthew Stafford,SoFi Stadium,Sean McVay
+LAR,Los Angeles Rams,NFC,West,10,7,38.632975,-90.188547,Brett Rypien,SoFi Stadium,Sean McVay
+LAR,Los Angeles Rams,NFC,West,10,7,38.632975,-90.188547,Carson Wentz,SoFi Stadium,Sean McVay
+
+MIA,Miami Dolphins,AFC,East,11,6,25.957919,-80.238842,Tua Tagovailoa,Hard Rock Stadium,Mike McDaniel
+
+MIN,Minnesota Vikings,NFC,North,7,10,44.973881,-93.258094,Kirk Cousins,U.S. Bank Stadium,Kevin O'Connell
+MIN,Minnesota Vikings,NFC,North,7,10,44.973881,-93.258094,Jaren Hall,U.S. Bank Stadium,	Kevin O'Connell
+MIN,Minnesota Vikings,NFC,North,7,10,44.973881,-93.258094,Joshua Dobbs(Vikings QB),U.S. Bank Stadium,Kevin O'Connell
+MIN,Minnesota Vikings,NFC,North,7,10,44.973881,-93.258094,Nick Mullens,U.S. Bank Stadium,Kevin O'Connell
+
+NE,New England Patriots,AFC,East,4,13,42.090925,-71.26435,Mac Jones,Gillette Stadium,Bill Belichick 
+NE,New England Patriots,AFC,East,4,13,42.090925,-71.26435,Bailey Zappe,Gillette Stadium,Bill Belichick 
+
+NO,New Orleans Saints,NFC,South,9,8,29.950931,-90.081364,Derek Carr,Caesars Superdome,Dennis Allen
+
+NYG,New York Giants,NFC,East,6,11,40.812194,-74.076983,Daniel Jones,MetLife Stadium,Brian Daboll
+NYG,New York Giants,NFC,East,6,11,40.812194,-74.076983,Tyrod Taylor,MetLife Stadium,Brian Daboll
+NYG,New York Giants,NFC,East,6,11,40.812194,-74.076983,Tommy DeVito,MetLife Stadium,Brian Daboll
+
+NYJ,New York Jets,AFC,East,7,10,40.812194,-74.076983,Aaron Rodgers,MetLife Stadium,Robert Saleh
+NYJ,New York Jets,AFC,East,7,10,40.812194,-74.076983,Zach Wilson,MetLife Stadium,Robert Saleh
+NYJ,New York Jets,AFC,East,7,10,40.812194,-74.076983,Tim Boyle,MetLife Stadium,Robert Saleh
+NYJ,New York Jets,AFC,East,7,10,40.812194,-74.076983,Trevor Siemian,MetLife Stadium,Robert Saleh
+
+PHI,Philadelphia Eagles,NFC,East,11,6,39.900775,-75.167453,Jalen Hurts,Lincoln Financial Field,Nick Sirianni
+
+PIT,Pittsburgh Steelers,AFC,North,10,7,40.446786,-80.01576,Kenny Pickett,Acrisure Stadium,Mike Tomlin
+PIT,Pittsburgh Steelers,AFC,North,10,7,40.446786,-80.01576,Mitch Trubisky,Acrisure Stadium,Mike Tomlin
+PIT,Pittsburgh Steelers,AFC,North,10,7,40.446786,-80.01576,Mason Rudolph,Acrisure Stadium,Mike Tomlin
+
+SF,San Francisco 49ers,NFC,West,12,5,37.7749,-122.4194,Brock Purdy,Levi's Stadium,Kyle Shanahan	
+SF,San Francisco 49ers,NFC,West,12,5,37.7749,-122.4194,Sam Darnold,Levi's Stadium,Kyle Shanahan
+
+SEA,Seattle Seahawks,NFC,West,9,8,47.595153,-122.331625,Geno Smith,Lumen Field,Pete Carroll
+SEA,Seattle Seahawks,NFC,West,9,8,47.595153,-122.331625,Drew Lock,Lumen Field,Pete Carroll
+
+TB,Tampa Bay Buccaneers,NFC,South,9,8,27.975967,-82.50335,Baker Mayfield,Raymond James Stadium,Todd Bowles
+
+
+TEN,Tennessee Titans,AFC,South,6,11,36.166461,-86.771289,Ryan Tannehill,Nissan Stadium,Mike Vrabel
+TEN,Tennessee Titans,AFC,South,6,11,36.166461,-86.771289,Malik Willis,Nissan Stadium,Mike Vrabel
+TEN,Tennessee Titans,AFC,South,6,11,36.166461,-86.771289,Will Levis,Nissan Stadium,Mike Vrabel
+
+WAS,Washington Commanders,NFC,East,4,13,38.907697,-76.864517,Sam Howell,Commanders Field,Ron Rivera
+
