@@ -174,7 +174,7 @@ def server(input: Inputs, output: Outputs, session: Session):
         division = selected_team_data.iloc[0]['Team']
         return f"Team QB: {division}"
 
-    #GitHub Co-pilot helped me 
+    
     @render_widget
     def plot2():
         selected_qb1 = input.qb1()
